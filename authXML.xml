@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/css" href="mystyle.css" ?>-->
+<section name="B" courseID="1234">
+	<student type="regular">
+		<id>1</id>
+		<email>Superman@gmail.com</email>
+		<pass>123456789</pass>
+	</student>
+	<student type="probation">
+		<id>2</id>
+		<pass>123456789</pass>
+		<email>Harley@gmail.com</email>
+	</student>
+</section>
